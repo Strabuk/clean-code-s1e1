@@ -22,7 +22,7 @@
   .info-block { 
     text-align: center;
   }
-  
+
 }
 .items-block {
   display: block;
@@ -38,7 +38,7 @@
   display: flex;
 }
 ul {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 li, h3 {
@@ -138,14 +138,14 @@ li >    input[type="text"] {
 
 /* Edit Task */
 ul li input[type="text"] {
-  display:none
+  display: none
 }
 
 .add-list input[type="text"] {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .add-list label {
-  display:none;
+  display: none;
 }
